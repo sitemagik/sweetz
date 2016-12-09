@@ -41,9 +41,9 @@ static const int LOCKTIME_THRESHOLD = 500000000; // Tue Nov  5 00:53:20 1985 UTC
 static const int STAKE_TARGET_SPACING = 1 * 60; // 1-minute block
 static const int STAKE_MIN_AGE = 60 * 60; // minimum age for coin age
 static const int STAKE_MAX_AGE = 60 * 60 * 24 * 5; // stake age of full weight
-static const int STAKE_START_TIME = 1481226397717; // Sat 13 Dec 2014 06:31:04 AM EST
-static const unsigned int POW_START_TIME = 1481226397; // Fri 12 Dec 2014 12:00:00 PM EST
-static const unsigned int POW_END_TIME = 1481529600; // Sun 21 Dec 2014 12:00:00 PM EST
+static const int STAKE_START_TIME = 1481326400; // Sat 13 Dec 2014 06:31:04 AM EST
+static const unsigned int POW_START_TIME = 1481326400; // Fri 12 Dec 2014 12:00:00 PM EST
+static const unsigned int POW_END_TIME = 1481326400999; // Sun 21 Dec 2014 12:00:00 PM EST
 // MODIFIER_INTERVAL: time to elapse before new modifier is computed
 static const unsigned int MODIFIER_INTERVAL = 10 * 60;
 static const int64 MINIMUM_FOR_ORION = 50 * COIN;
