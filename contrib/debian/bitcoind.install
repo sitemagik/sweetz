@@ -1,0 +1,2 @@
+debian/bin/sweetcoind usr/bin
+src/sweetcoind usr/lib/sweetcoin

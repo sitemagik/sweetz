@@ -1,0 +1,7 @@
+debian/bin/sweetcoin-qt usr/bin
+sweetcoin-qt usr/lib/sweetcoin
+share/pixmaps/sweetcoin32.xpm usr/share/pixmaps
+share/pixmaps/sweetcoin80.xpm usr/share/pixmaps
+share/pixmaps/paycoin128.png usr/share/pixmaps
+debian/sweetcoin-qt.desktop usr/share/applications
+debian/sweetcoin-qt.protocol usr/share/kde4/services/

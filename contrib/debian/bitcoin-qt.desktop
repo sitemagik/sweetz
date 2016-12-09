@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=sweetcoin
+Comment=sweetcoin P2P Cryptocurrency
+Comment[fr]=sweetcoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=sweetcoin, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/sweetcoin-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/sweetcoin80.xpm
+MimeType=x-scheme-handler/sweetcoin;
+Categories=Office;
