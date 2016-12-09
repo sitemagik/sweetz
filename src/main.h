@@ -43,7 +43,7 @@ static const int STAKE_MIN_AGE = 60 * 60; // minimum age for coin age
 static const int STAKE_MAX_AGE = 60 * 60 * 24 * 5; // stake age of full weight
 static const int STAKE_START_TIME = 1481326400; // Sat 13 Dec 2014 06:31:04 AM EST
 static const unsigned int POW_START_TIME = 1481326400; // Fri 12 Dec 2014 12:00:00 PM EST
-static const unsigned int POW_END_TIME = 1481326400999; // Sun 21 Dec 2014 12:00:00 PM EST
+static const unsigned int POW_END_TIME = 1609372800; // Sun 21 Dec 2014 12:00:00 PM EST
 // MODIFIER_INTERVAL: time to elapse before new modifier is computed
 static const unsigned int MODIFIER_INTERVAL = 10 * 60;
 static const int64 MINIMUM_FOR_ORION = 50 * COIN;
